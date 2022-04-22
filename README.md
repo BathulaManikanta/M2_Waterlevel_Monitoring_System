@@ -1,0 +1,2 @@
+# M2_Waterlevel_Monitoring_System
+The main objective of this project is to build up a framework to monitor a water level of a water source from an inaccessible area.The IoT based system given during this study is going to be useful to attain such task. The prototype system experiment of this study allows keeping track of a water supply from remote area  continuously. The real usage of the system would require changes in detector and few alternative technologies and source code in spite of the fact that the system  and working rule continue as before.
